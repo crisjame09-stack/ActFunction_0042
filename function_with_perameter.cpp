@@ -31,5 +31,7 @@ int main()
 {
     input();
     output();
+    cout << "Perimeter : " << rectanglePerimeter(length, width);
 
 }
+
