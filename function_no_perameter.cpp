@@ -21,8 +21,9 @@ void output()
     cout << "Result : " << rectangleArea();
 }
 
-int main()
-{
+int main(){
+
     input();
     output();
+
 }
