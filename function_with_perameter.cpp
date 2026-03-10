@@ -11,7 +11,7 @@ void input()
     cin >> width;
 }
 
-int rectangleArea(int a)
+int rectangleArea(int a , int b)
 {
     return a * b;
 }
@@ -33,6 +33,7 @@ int main()
     cout << "Perimeter : " << rectanglePerimeter(length, width);
 
 }
+
 
 
 
