@@ -24,7 +24,6 @@ int rectanglePerimeter(int a, int b)
 void output()
 {
     cout << "Area : " << rectangleArea(length, width) << endl;
-    cout << "Perimeter : " << rectanglePerimeter(length, width);
 }
 
 int main()
@@ -34,4 +33,5 @@ int main()
     cout << "Perimeter : " << rectanglePerimeter(length, width);
 
 }
+
 
